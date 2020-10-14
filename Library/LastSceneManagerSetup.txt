@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/AndroidVR_Eduardo.unity
+  isLoaded: 1
+  isActive: 1
